@@ -6,7 +6,7 @@ Base Enterprise Deployment Strategy for Google Cloud
 <p>
   Base Terraform code for large organizations with business units within departments.</br>
   This code will create the organizational structure for your Google Cloud Environment.</br>
-  Populate the variables in terraform.tfvars
+  Populate the variables in org.tfvars
 </p>
 
 <h2>Folders</h2>
