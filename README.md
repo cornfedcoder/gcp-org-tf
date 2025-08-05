@@ -10,15 +10,16 @@ Base Enterprise Deployment Strategy for Google Cloud
 </p>
 
 <h2>Folders</h2>
+
 Acronyms:
-| Acronym | Definition |
-| :--------: | :-----------------: |
-| bu | Business Unit |
-| ss | Shared Services | 
-<p>
-  The following folder structure will be created:
-  <il>
+  <ul>
+    <li>bu | Business Unit</li>
+    <li>ss | Shared Services</li>
+  </ul>
+
+The following folder structure will be created:
+  <ul>
     <li>fldr-orgName-bu</li>
     <li>fldr-orgName-ss</li>
-  </il>
-</p>
+  </ul>
+
