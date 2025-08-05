@@ -1,4 +1,5 @@
-# gcp-tf
+# Google Cloud Org Terraform
+Step 2
 Base Enterprise Deployment Strategy for Google Cloud
 
 <h2>Overview</h2>
